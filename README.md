@@ -6,4 +6,4 @@ We use the [Book-Crossings dataset](http://www2.informatik.uni-freiburg.de/~czie
 
 We use Collaborative Filtering to make our recommendations out based other user's similar preferences. We will use a machine learning algorithm : the NearestNeighbors from sklearn.neighbors to produce book recommendations that are similar (based on user's ratings) to a given book.
 
-For more details, see the Notebook version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/Book_recommendation_engine/blob/main/Book%20recommendation%20engine.ipynb)
+For more details, see the Notebook version: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/Book_recommendation_engine/blob/main/Book_recommendation_engine.ipynb)
